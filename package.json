@@ -9,7 +9,7 @@
   "dependencies": {
   },
   "devDependencies": {
-    "convex-hull": "^1.0.3",
+    "convex-hull": "^1.0.3"
   },
   "scripts": {
     "test": "echo \"Error: no test specified\" && exit 1"
