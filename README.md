@@ -16,7 +16,7 @@ console.log(toSVG(ch(points), points))
 
 Output:
 
-<img src="http://mikolalysenko.github.io/planar-graph-to-svg/example.svg">
+<img src="https://mikolalysenko.github.io/planar-graph-to-svg/example/example.svg">
 
 # Install
 
