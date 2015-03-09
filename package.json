@@ -1,0 +1,34 @@
+{
+  "name": "planar-graph-to-svg",
+  "version": "1.0.0",
+  "description": "Draw a planar graph to an svg file",
+  "main": "pg2svg.js",
+  "directories": {
+    "example": "example"
+  },
+  "dependencies": {
+  },
+  "devDependencies": {
+    "convex-hull": "^1.0.3",
+  },
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "https://github.com/mikolalysenko/planar-graph-to-svg.git"
+  },
+  "keywords": [
+    "planar",
+    "graph",
+    "svg",
+    "render",
+    "debug"
+  ],
+  "author": "Mikola Lysenko",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/mikolalysenko/planar-graph-to-svg/issues"
+  },
+  "homepage": "https://github.com/mikolalysenko/planar-graph-to-svg"
+}
